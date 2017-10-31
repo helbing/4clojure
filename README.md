@@ -55,3 +55,41 @@
 [A nil key](answers/134.A%20nil%20key.md)
 
 [For the win](answers/145.For%20the%20win.md)
+
+[Logical falsity and truth](answers/162.Logical%20falsity%20and%20truth.md)
+
+[Subset and Superset](answers/161.Subset%20and%20Superset.md)
+
+[Intro to Destructuring](answers/52.Intro%20to%20Destructuring.md)
+
+[Map Defaults](answers/156.Map%20Defaults.md)
+
+[Last Element](answers/19.Last%20Element.md)
+
+[Penultimate Element](answers/20.Penultimate%20Element.md)
+
+[Nth Element](answers/21.Nth%20Element.md)
+
+[Count a Sequence](answers/22.Count%20a%20Sequence.md)
+
+[Sum It All Up](answers/24.Sum%20It%20All%20Up.md)
+
+[Find the odd numbers](answers/25.Find%20the%20odd%20numbers.md)
+
+[Reverse a Sequence](answers/23.Reverse%20a%20Sequence.md)
+
+[Palindrome Detector](answers/27.Palindrome%20Detector.md)
+
+[Fibonacci Sequence](answers/26.Fibonacci%20Sequence.md)
+
+[Maximum value](answers/38.Maximum%20value.md)
+
+[Get the Caps](answers/29.Get%20the%20Caps.md)
+
+[Duplicate a Sequence](answers/32.Duplicate%20a%20Sequence.md)
+
+[Intro to some](answers/48.Intro%20to%20some.md)
+
+[Implement range](answers/34.Implement%20range.md)
+
+[Factorial Fun](answers/42.Factorial%20Fun.md)
