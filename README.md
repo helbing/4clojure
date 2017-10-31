@@ -8,8 +8,8 @@
 
 [Intro to Lists](answers/4.Intro%20to%20Lists.md)
 
-[Lists: conj](answers/5.Lists: conj.md)
+[Lists: conj](answers/5.Lists%20conj.md)
 
 [Intro to Vectors](answers/6.Intro%20to%20Vectors.md)
 
-[Vectors: conj](answers/7.Vectors: conj.md)
+[Vectors: conj](answers/7.Vectors%20conj.md)
