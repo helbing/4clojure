@@ -97,3 +97,5 @@
 [Interleave Two Seqs](answers/39.Interleave%20Two%20Seqs.md)
 
 [Flatten a Sequence](answers/28.Flatten%20a%20Sequence.md)
+
+[Replicate a Sequence](answers/33.Replicate%20a%20Sequence.md)
